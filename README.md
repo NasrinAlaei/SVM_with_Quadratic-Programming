@@ -11,3 +11,6 @@ The dual and primal formulation for classifying a separable linear support vecto
 
 ![image](https://user-images.githubusercontent.com/104565514/172553789-6b1eb6df-9363-4327-9725-03b03b37adcd.png)
 
+#machine learning
+#Data_Mining
+#svm
